@@ -1,0 +1,4 @@
+clean
+allocate
+make_heap
+shoes
